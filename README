@@ -1,0 +1,9 @@
+his repository formalizes the hypothesis that universal connectedness of all processes (including all meta-levels) forces the trivial truth of P=NP and the structural failure of the empty-set axiom and the axiom of choice. A single disconnection restores classical structure. The tool paradox is made fully explicit.
+
+## Repository Architecture
+- README.md — this control ledger
+- LICENSE — RIPL v1.0
+- paper.tex — full LaTeX treatise (main text + conclusion + addendum + glossary + expansions)
+- Framework.lean — Lean 4 formalization of the core quantifier negation
+- simulation.py — graded connectedness and complexity scoring
+- RIPL.tex — license front-matter
