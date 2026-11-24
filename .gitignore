@@ -1,0 +1,14 @@
+gitignore
+
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+.lean/
+build/
+*.olean
+__pycache__/
+*.pyc
+.DS_Store
